@@ -1,0 +1,4 @@
+.idea/
+.vs/
+_pycache_/
+2048.sln
